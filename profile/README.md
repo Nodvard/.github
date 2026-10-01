@@ -16,3 +16,12 @@ Self-hosted tools for your homelab – built and maintained in Germany.
 mkdir ~/nodvard-deck && cd ~/nodvard-deck
 curl -fsSL -o compose.yml https://raw.githubusercontent.com/nodvard/deck/main/deploy/compose.standalone.yml
 docker compose up -d
+```
+
+Then open `http://<your-server>:8080` and follow the setup assistant. The interface is currently in German.
+
+### License
+
+Free for personal and other noncommercial use under the [PolyForm Noncommercial License 1.0.0](https://github.com/nodvard/deck/blob/main/LICENSE). Commercial use is not permitted without separate permission.
+
+Feedback and bug reports are welcome as [issues](https://github.com/nodvard/deck/issues) · Contact: kontakt@nodvard.com
