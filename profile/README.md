@@ -24,4 +24,4 @@ Then open `http://<your-server>:8080` and follow the setup assistant. The interf
 
 Free for personal and other noncommercial use under the [PolyForm Noncommercial License 1.0.0](https://github.com/nodvard/deck/blob/main/LICENSE). Commercial use is not permitted without separate permission.
 
-Feedback and bug reports are welcome as [issues](https://github.com/nodvard/deck/issues) · Contact: kontakt@nodvard.com
+Feedback and bug reports are welcome as [issues](https://github.com/nodvard/deck/issues) · Contact: kontakt@nodvard.com · [Website](https://nodvard.com) · [Legal notice / Impressum](https://nodvard.com/impressum.html) · [Privacy](https://nodvard.com/datenschutz.html)
